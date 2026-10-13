@@ -2,7 +2,7 @@
 
 This is my project for the [UTS MDSI Kaggle competition](https://www.kaggle.com/competitions/uts-mdsi-competition-2026). The task was to predict which students end up with a successful outcome (study + employability). It's scored with ROC-AUC.
 
-Made by [Your name]
+Made by Tanishq Soni
 
 ## How it went
 
