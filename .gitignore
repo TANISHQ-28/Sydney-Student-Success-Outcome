@@ -1,0 +1,5 @@
+# competition data and outputs are not committed
+data/
+*.csv
+.ipynb_checkpoints/
+__pycache__/
