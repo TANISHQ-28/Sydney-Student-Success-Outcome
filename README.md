@@ -10,7 +10,7 @@ Made by Tanishq Soni
 |---|---|
 | My cross-validation score | 0.978 |
 | Public leaderboard | 0.98068 |
-| Final (private) leaderboard | 0.98164,|
+| Final (private) leaderboard | 0.98164|
 
 I only made one submission, so I didn't tune anything against the public leaderboard.
 
